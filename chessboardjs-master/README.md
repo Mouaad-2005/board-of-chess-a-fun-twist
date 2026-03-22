@@ -57,13 +57,4 @@ npm run build
 npm run website
 ```
 
-## License
 
-[MIT License](LICENSE.md)
-
-[jQuery]:https://jquery.com/
-[chessboardjs.com]:https://chessboardjs.com
-[chess.js]:https://github.com/jhlywa/chess.js
-[Example 5000]:https://chessboardjs.com/examples#5000
-[Example 5001]:https://chessboardjs.com/examples#5001
-[Example 5002]:https://chessboardjs.com/examples#5002
