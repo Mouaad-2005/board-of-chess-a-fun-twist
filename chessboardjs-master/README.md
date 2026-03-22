@@ -6,11 +6,11 @@ chessboard.js is a JavaScript chessboard component. It depends on [jQuery] v3.4.
 
 Please see [chessboardjs.com] for documentation and examples.
 
-## Project Status (Dec 2022)
+## Project Status (Dec 2025)
 
 I am currently focusing my efforts on [chessboard2].
 
-[chessboard2]:https://github.com/oakmac/chessboard2
+
 
 ## What is chessboard.js?
 
